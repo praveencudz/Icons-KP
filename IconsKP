@@ -4,5 +4,6 @@
  "icons":
  [	 		
 	{"name":"Crunchyroll", "url":"https://image.tmdb.org/t/p/h100_filter(negate,000,000)/qqyXcZlJQKlRmAD1TCKV7mGLQlt.png"},
+	{"name":"Netflix", "url":"https://nuvioapp.space/uploads/covers/469fb054-cbec-46ca-bc91-6ed73a6d647b.png"},
  ]
 }
