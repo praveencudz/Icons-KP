@@ -3,7 +3,21 @@
  "description":"", 
  "icons":
  [	 		
-	{"name":"Crunchyroll", "url":"https://image.tmdb.org/t/p/h100_filter(negate,000,000)/qqyXcZlJQKlRmAD1TCKV7mGLQlt.png"},
-	{"name":"Netflix", "url":"https://nuvioapp.space/uploads/covers/469fb054-cbec-46ca-bc91-6ed73a6d647b.png"},
+	 {"name":"Crunchyroll", "url":"https://image.tmdb.org/t/p/h100_filter(negate,000,000)/qqyXcZlJQKlRmAD1TCKV7mGLQlt.png"},
+	 {"name":"Paramount+", "url":"https://image.tmdb.org/t/p/h100_filter(negate,000,000)/fi83B1oztoS47xxcemFdPMhIzK.png"},
+	 {"name":"Prime Video", "url":"https://image.tmdb.org/t/p/h100_filter(negate,000,000)/w7HfLNm9CWwRmAMU58udl2L7We7.png"},
+	 {"name":"Hulu", "url":"https://image.tmdb.org/t/p/h100_filter(negate,000,000)/pqUTCleNUiTLAVlelGxUgWn1ELh.png"},
+	 {"name":"HBO Max", "url":"https://image.tmdb.org/t/p/h100_filter(negate,000,000)/nmU0UMDJB3dRRQSTUqawzF2Od1a.png"},
+	 {"name":"Apple TV", "url":"https://image.tmdb.org/t/p/h100_filter(negate,000,000)/4KAy34EHvRM25Ih8wb82AuGU7zJ.png"},
+	 {"name":"Disney+", "url":"https://image.tmdb.org/t/p/h100_filter(negate,000,000)/1edZOYAfoyZyZ3rklNSiUpXX30Q.png"},
+	 {"name":"Netflix", "url":"https://image.tmdb.org/t/p/h100_filter(negate,000,000)/wwemzKWzjKYJFfCeiB57q3r4Bcm.png"},
+	 {"name":"Universal", "url":"https://image.tmdb.org/t/p/h100_filter(negate,000,000)/3wwjVpkZtnog6lSKzWDjvw2Yi00.png"},
+	 {"name":"Columbia Pictures", "url":"https://image.tmdb.org/t/p/h100_filter(negate,000,000)/71BqEFAF4V3qjjMPCpLuyJFB9A.png"},
+	 {"name":"Paramount Pictures", "url":"https://image.tmdb.org/t/p/h100_filter(negate,000,000)/gz66EfNoYPqHTYI4q9UEN4CbHRc.png"},
+	 {"name":"Marvel Studios", "url":"https://image.tmdb.org/t/p/h100_filter(negate,000,000)/mIkZDuulwMPzESbzF9lg3rD8CcO.png"},
+	 {"name":"Walt Disney Pictures", "url":"https://image.tmdb.org/t/p/h100_filter(negate,000,000)/wdrCwmRnLFJhEoH8GSfymY85KHT.png"},
+	 {"name":"Sony Pictures", "url":"https://image.tmdb.org/t/p/h100_filter(negate,000,000)/mtp1fvZbe4H991Ka1HOORl572VH.png"},
+	 {"name":"Warner Brothers", "url":"https://image.tmdb.org/t/p/h100_filter(negate,000,000)/gOVIqRJbYXjAsfQz27zVdSuJm8W.png"},
+	 {"name":"20th Century Fox", "url":"https://image.tmdb.org/t/p/h100_filter(negate,000,000)/qZCc1lty5FzX30aOCVRBLzaVmcp.png"},
  ]
 }
