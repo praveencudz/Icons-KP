@@ -1,0 +1,30 @@
+{
+  "id": "com.iconskp.addon",
+  "version": "1.0.0",
+  "name": "IconsKP",
+  "description": "Icon catalog for streaming platforms",
+  "logo": "https://raw.githubusercontent.com/praveencudz/Icons-KP/main/logo.png",
+  "resources": [
+    "catalog"
+  ],
+  "types": [
+    "movie"
+  ],
+  "catalogs": [
+    {
+      "type": "movie",
+      "id": "icons",
+      "name": "Icons",
+      "extra": [
+        {
+          "name": "search",
+          "isRequired": false
+        }
+      ]
+    }
+  ],
+  "behaviorHints": {
+    "configurable": false,
+    "configurationRequired": false
+  }
+}
